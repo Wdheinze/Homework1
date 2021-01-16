@@ -26,17 +26,31 @@ p {
 ul {
   list-style: none;
   text-align: center;
+  color: white;
+  margin-right: 130px;
+
 }
 h2{
   text-align: center;
+  color: white;
+  margin-right: 100px;
+}
+
+h3{
+  color: white;
+  text-align:
 }
 
 .blob {
   background-color: black;
   width:50%;
-  height:2000px;
+  height:auto;
   margin-left: 475px;
-
+  padding: 2rem;
+}
+table{
+  color: white;
+  text-align: center;
 }
 
 @media only screen and (max-device-width: 8000px) {
