@@ -64,12 +64,13 @@ table {
   .hero {
     width: 760px;
   }
+
   .blob {
     background-color: black;
     height: auto;
     margin: auto;
     padding: 1rem;
-
+    text-align: center;
   }
 
   ul {
@@ -82,10 +83,11 @@ table {
   .hero {
     width: 400px;
   }
+
   .blob {
     background-color: black;
     height: auto;
-    margin:auto;
+    margin: auto;
     padding: 2rem;
   }
 
