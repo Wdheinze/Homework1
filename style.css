@@ -6,3 +6,9 @@ h1 {
   color: #19456b;
   margin-left: 15px;
 }
+
+p {
+  color: #16c79a;
+  font-size: 2px;
+  padding-right: 500;
+}
