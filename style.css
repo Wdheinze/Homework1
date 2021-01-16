@@ -28,27 +28,28 @@ ul {
   text-align: center;
   color: white;
   margin-right: 130px;
-
 }
-h2{
+
+h2 {
   text-align: center;
   color: white;
   margin-right: 100px;
 }
 
-h3{
+h3 {
   color: white;
   text-align:
 }
 
 .blob {
   background-color: black;
-  width:50%;
-  height:auto;
+  width: 50%;
+  height: auto;
   margin-left: 475px;
   padding: 2rem;
 }
-table{
+
+table {
   color: white;
   text-align: center;
 }
@@ -63,6 +64,13 @@ table{
   .hero {
     width: 760px;
   }
+  .blob {
+    background-color: black;
+    height: auto;
+    margin: auto;
+    padding: 1rem;
+
+  }
 
   ul {
     text-align: center;
@@ -73,6 +81,12 @@ table{
 @media only screen and (max-device-width: 414px) {
   .hero {
     width: 400px;
+  }
+  .blob {
+    background-color: black;
+    height: auto;
+    margin:auto;
+    padding: 2rem;
   }
 
   ul {
