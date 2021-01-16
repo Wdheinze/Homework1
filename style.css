@@ -1,6 +1,6 @@
 body {
-  background-image: url("1.jpg");
-  background-size: auto;
+
+
   background-color: #19456b;
 }
 
@@ -14,4 +14,10 @@ p {
   color: #16c79a;
   font-size: 26px;
   text-align: center;
+}
+
+.hero {
+width: 100%;
+background-image: url("1.jpg");
+
 }
